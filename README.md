@@ -1,6 +1,20 @@
-# <h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fahim </h1>
-🔭 I’m currently working on crafting an interactive personal portfolio website using React and developing desktop tools with Electron.<br>👯 I’m looking to collaborate on beginner-friendly open-source projects or lightweight backend utilities.<br>🤝 I’m looking for help with mastering advanced asynchronous logic and deep-level backend architecture.<br>🌱 I’m currently learning full-stack ecosystems, backend database management, and diving deeper into systems programming.<br>💬 Ask me about tiling window managers (Arch Linux + Hyprland), scripting console tools in Node.js.<br>⚡ Fun fact: I enjoy building things completely from scratch—and when I'm away from the keyboard, I'm usually practicing basic guitar chords.
+# Hi 👋 My name is Fahim
+I've been learning to code for 4 years. I started with web development, learning the ropes of UI/UX and frontend scripting. Over time, that morphed into a broader passion for software engineering, leading me to dive deep into backend architecture, database management, and low-level systems programming. I enjoy exploring how logic translates into the applications we use daily.
 
+## Here is a quick look at what I bring to the table:
+
+🌐 Frontend Development: HTML5, CSS3, JavaScript, React.js
+
+⚙️ Backend & Databases: Node.js, SQL
+
+🛠️ Systems & Scripting: C, C++, Java, Python
+
+🌍  I'm based in India. <br/>
+🖥️  See my portfolio at [Portfolio](http://codedbyryuk.pages.dev).<br/>
+✉️  You can contact me at codedbyryuk@gmail.com <br/>
+🚀  I'm currently working on [Modufy](http://modufy.pages.dev).<br/>
+🧠  I'm learning a new language, Rust. <br/>
+🤝  I'm open to collaborating on any project that is within my scope.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/codedbyryuk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/codedbyryuk) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/codedbyryuk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:codedbyryuk@gmail.com) 
