@@ -1,4 +1,4 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fahim
+# <h1> Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Fahim </h1>
 🔭 I’m currently working on crafting an interactive personal portfolio website using React and developing desktop tools with Electron.<br>👯 I’m looking to collaborate on beginner-friendly open-source projects or lightweight backend utilities.<br>🤝 I’m looking for help with mastering advanced asynchronous logic and deep-level backend architecture.<br>🌱 I’m currently learning full-stack ecosystems, backend database management, and diving deeper into systems programming.<br>💬 Ask me about tiling window managers (Arch Linux + Hyprland), scripting console tools in Node.js.<br>⚡ Fun fact: I enjoy building things completely from scratch—and when I'm away from the keyboard, I'm usually practicing basic guitar chords.
 
 
