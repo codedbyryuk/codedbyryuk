@@ -5,6 +5,8 @@ I've been learning to code for 4 years. I started with web development, learning
 
 🌐 Frontend Development: HTML5, CSS3, JavaScript, React.js
 
+📱 App Development: React Native
+
 ⚙️ Backend & Databases: Node.js, SQL
 
 🛠️ Systems & Scripting: C, C++, Java, Python
