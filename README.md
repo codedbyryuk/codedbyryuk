@@ -3,7 +3,7 @@ I've been learning to code for 4 years. I started with web development, learning
 
 ## Here is a quick look at what I bring to the table:
 
-🌐 Frontend Development: HTML5, CSS3, JavaScript, React.js
+🌐 Frontend Development: HTML5, CSS3, JavaScript, React.js, Next.js
 
 📱 App Development: React Native
 
