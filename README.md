@@ -9,7 +9,7 @@ I've been learning to code for 4 years. I started with web development, learning
 
 ⚙️ Backend & Databases: Node.js, SQL
 
-🛠️ Systems & Scripting: C, C++, Java, Python
+🛠️ Systems & Scripting: C, C++, Java, Python, GO
 
 🌍  I'm based in India. <br/>
 🖥️  See my portfolio at [Portfolio](http://codedbyryuk.pages.dev).<br/>
